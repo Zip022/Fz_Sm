@@ -1,0 +1,29 @@
+.h1{
+color: aquamarine;
+
+}
+.h2{
+color: darkgreen;
+font-size: 60px;
+
+
+}
+.h3{
+color: darkred;
+border: 2px solid pink;
+
+}
+.h4{
+color: black;
+font-size: 30pt;
+font-style: italic;
+}
+.h1, .h2, .h3{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+body{
+
+    background-color: chocolate;
+}
